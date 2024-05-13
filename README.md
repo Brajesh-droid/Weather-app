@@ -17,4 +17,4 @@ Welcome to the Weather App! This web application provides real-time weather info
 - **JavaScript (ES6+)**: Used for fetching weather data from APIs and implementing interactive features.
 - **OpenWeatherMap API**: Used to retrieve weather data for different locations.
   
-LINK - soon
+LINK -[ APP ](https://brajesh-droid.github.io/Weather-app/)
